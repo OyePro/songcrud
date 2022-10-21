@@ -1,5 +1,5 @@
-### Virtual environments and introduction to Django
+## Virtual environments and introduction to Django
 
-## Creating a new Django project named “songcrud” and an app in the project called “musicapp”.
+### Creating a new Django project named “songcrud” and an app in the project called “musicapp”.
 
-## The project contains a requirements.txt file housing all the pinned dependencies from the project.
+### The project contains a requirements.txt file housing all the pinned dependencies from the project.
